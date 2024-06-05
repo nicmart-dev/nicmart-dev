@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nicmart@gmail.com**
 
-- 📅 Book a 30min free consultation in [my calendar](https://calendly.com/nicmart)
+- 📅 Chat about topics above, or book a 30min free automation consultation in [my calendar](https://calendly.com/nicmart)
 
 - 📄 Know about my experiences [http://docs.google.com/document/d/1sXXMsVEctuTHrY8A4zsqHDIHCufcI8bVJKE-yN5DGeE/export?format=pdf](http://docs.google.com/document/d/1sXXMsVEctuTHrY8A4zsqHDIHCufcI8bVJKE-yN5DGeE/export?format=pdf)
 
