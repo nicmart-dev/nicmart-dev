@@ -3,10 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicmart-dev&label=Profile%20views&color=0e75b6&style=flat" alt="nicmart-dev" /> </p>
 
-- 🔭 I’m currently working on [my web development bootcamp capstone project](https://github.com/nicmart-dev/linguistnow)
+- 🔭 I’m currently working on [linguistnow](https://github.com/nicmart-dev/linguistnow), an app for project managers to find available linguists via google cal.
 
 - 🌱 I’m currently learning **Tailwind CSS, n8n automation framework**
-
 - 💬 Ask me about **automation, react/express, devops/prodops processes, testing**
 
 - 📫 How to reach me **nicmart@gmail.com**
