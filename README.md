@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, I'm Nicolas Martinez</h1>
-<h3 align="center">A passionate Tech Product Manager turned Automation Builder from France</h3>
+<h1 align="center">Hello, I'm Nicolas Martinez</h1>
+<h3 align="center">I have over 20 years of experience in localization, and building workflow automation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicmart-dev&label=Profile%20views&color=0e75b6&style=flat" alt="nicmart-dev" /> </p>
 
-- 🔭 I’m currently working on:
-   - [linguistnow](https://github.com/nicmart-dev/linguistnow), an app for project managers to find available linguists via google cal.
-   - [feed me now](https://github.com/nicmart-dev/feedmenow), an app that recommends recipes based on ingredients you have in your fridge or pantry list.
+- 🔭 I’m currently working on [feed me now](https://github.com/nicmart-dev/feedmenow), an app that recommends recipes based on ingredients you have in your fridge or pantry list.
 
-- 🌱 I’m currently learning **Tailwind CSS, n8n automation framework**
-- 💬 Ask me about **automation, react/express, devops/prodops processes, testing**
+- 🌱 I’m currently learning **Tailwind CSS, n8n automation framework, Python**
+- 💬 Ask me about **internationalization, workflow automation, Node.js, DevOps, ProdOps, Docker, testing**
 
 - 📫 How to reach me **nicmart@gmail.com**
 
@@ -16,9 +14,6 @@
 
 - 📄 Know about my experiences [http://docs.google.com/document/d/1sXXMsVEctuTHrY8A4zsqHDIHCufcI8bVJKE-yN5DGeE/export?format=pdf](http://docs.google.com/document/d/1sXXMsVEctuTHrY8A4zsqHDIHCufcI8bVJKE-yN5DGeE/export?format=pdf)
 
-- ⚡ Fun fact **I tell dad jokes** to my **two cats** and am a big fan of [The IT Crowd](https://www.imdb.com/title/tt0487831/)
-
-  <img src="./images/moss.gif" width="20%" height="20%" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
