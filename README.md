@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Nicolas Martinez</h1>
+<h1 align="center">I'm a French product manager and software developer</h1>
 <h3 align="center">I have over 20 years of experience in localization, and building workflow automation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicmart-dev&label=Profile%20views&color=0e75b6&style=flat" alt="nicmart-dev" /> </p>
@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Tailwind CSS, n8n automation framework, Python**
 - 💬 Ask me about **internationalization, workflow automation, Node.js, DevOps, ProdOps, Docker, testing**
-
-- 📫 How to reach me **nicmart@gmail.com**
 
 - 📅 Chat about topics above, or book a 30min free automation consultation in [my calendar](https://calendly.com/nicmart)
 
